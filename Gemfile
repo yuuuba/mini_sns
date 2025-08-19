@@ -51,7 +51,7 @@ group :development, :test do
 
   # Omakase Ruby styling [https://github.com/rails/rubocop-rails-omakase/]
   gem "rubocop-rails-omakase", require: false
-  gem "rspec", ">= 3.0.0"
+  gem "rspec-rails"
   gem "fuubar"
   gem "guard-rspec"
 end
