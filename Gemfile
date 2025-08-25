@@ -55,6 +55,7 @@ group :development, :test do
   gem "rspec-rails"
   gem "fuubar"
   gem "guard-rspec"
+  gem "capybara"
 end
 
 group :development do
