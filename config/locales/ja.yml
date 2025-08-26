@@ -1,0 +1,12 @@
+ja:
+  activerecord:
+    errors:
+      models:
+        post:
+          attributes:
+            title:
+              blank: "が入力されていません。"
+            content:
+              blank: "が入力されていません。"
+            user:
+              required: "が入力されていません。"

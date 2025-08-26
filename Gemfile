@@ -56,6 +56,7 @@ group :development, :test do
   gem "fuubar"
   gem "guard-rspec"
   gem "capybara"
+  gem "factory_bot_rails"
 end
 
 group :development do
